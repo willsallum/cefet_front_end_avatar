@@ -1,7 +1,21 @@
 # AvatarCreator
 
-[Baixe os arquivos](https://github.com/fegemo/cefet-front-end-avatar/archive/main.zip)
-aqui. Nesta atividade vamos criar um montador de avatares em pixel art!
+# Atividade de Hoje
+
+- Completar a página do "AvatarCreator"
+- [Baixe os arquivos][avatar-seminal] contendo o HTML e faça os exercícios
+  - Leia as instruções detalhadas no arquivo `README.md`. No geral:
+    1. Possibilitar o usuário:
+       - Escrever o nome
+       - Selecionar uma cor da pele
+       - Escolher um cabelo
+       - Colocar/remover acessórios (desafios)
+
+[avatar-seminal]: https://github.com/willsallum/cefet_front_end_avatar/archive/master.zip
+
+---
+
+Nesta atividade vamos criar um montador de avatares em pixel art!
 
 ![](docs/resultado-final.png)
 
