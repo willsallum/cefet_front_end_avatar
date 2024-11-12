@@ -34,6 +34,15 @@ colocados por você dentro da section `#secao-controles` no arquivo `index.html`
 Todo o código JavaScript, exceto pelo referente ao "botão salvar" (desafio 2)
 deve ser colocado dentro de `avatar.js`.
 
+## Gerador de avatares
+
+- O AvatarCreator 
+- Eventos de formulários
+  - Foco: `blur` e `focus`
+  - Teclado: `keydown` e `keyup`
+  - Modificação: `change`, `input`<!-- {ul^1:.content} -->
+- Estilizando campos de formulários
+
 ### Exercício 1: nome do avatar
 
 1. Coloque um controle que permita o usuário **digitar** o nome do avatar.
